@@ -26,6 +26,7 @@
 
 * [Python](https://python.org)
 * [Pycharm Edu](https://www.jetbrains.com/de-de/pycharm/)
+* [selenium](https://www.selenium.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

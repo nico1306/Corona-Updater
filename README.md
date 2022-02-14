@@ -7,7 +7,7 @@
     <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Corona-Ipdater</h3>
+<h3 align="center">Corona-Updater</h3>
 
   <p align="center">
     Its a simple Bot that automaticly uploads a image to instagram with the current Corona numbers for the Ostalbkreis. <br>
